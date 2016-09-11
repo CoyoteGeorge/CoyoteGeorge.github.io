@@ -1,0 +1,41 @@
+html{
+  color: blue;
+  font-weight: bolder;
+  text-align: left;
+  font-family: fantasy;
+  background-color:#a3c0ac;
+}
+
+li a {
+  color: green;
+  font-style: oblique;
+  margin: 30px;
+  padding:12px;mg
+  border-color: black;
+  border:60px;
+
+}
+
+a {
+  color: black;
+  text-align: center;
+  padding: 30px;
+  font-size: 25px;
+
+}
+
+nav {
+  border: solid;
+  border-color: black;
+  Margin: 12px
+  display: inline-block;
+  background-color: gray;
+  text-align: center;
+
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+  color: black;
+}
